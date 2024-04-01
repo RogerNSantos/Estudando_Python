@@ -1,4 +1,4 @@
-frase = "Curso em vídeo Python"
+frase = "Rogerio Santos"
 print("Fatiamento: ", frase[1:15:2], "\nPulando de dois em dois: ", frase[::2])
 print("\nContar quantas letras: ", frase.count("e"))
 print("\nContar quantas letras: ", frase.upper().count("o"))
