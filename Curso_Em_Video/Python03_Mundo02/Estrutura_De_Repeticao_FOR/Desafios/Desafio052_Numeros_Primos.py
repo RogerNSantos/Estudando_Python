@@ -1,0 +1,1 @@
+""" Faça um programna que leia un NÚMERO INTEIRO e diga se ele é ou não um NÚMERO PRIMO. """
